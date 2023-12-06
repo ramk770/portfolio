@@ -1,0 +1,51 @@
+.skillcomtent{
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content:center;
+    margin: 200px 0;
+}
+.skill_textcontent{
+    color: white;
+     flex:0.6; 
+    text-align: left;
+    max-width: 500px;
+    margin-bottom: 200px;
+}
+.skill_textcontent > h1 > span { 
+    color: orange; 
+
+}
+.skill_textcontent > h1{
+    font-size: 30px;
+
+}
+
+.skillcontent_text{
+    flex:0.4;
+    text-align: center;
+    margin-right: 100px;
+
+    
+}
+.skillcontent_text > img{
+    width:600px;
+    margin-bottom: 170px;
+    border-radius: 3px;
+    object-fit: contain;
+}
+.skillscontainer-site > h5{
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 30px;
+    padding-top:15px;
+    font-size: 15px;
+
+}
+.skillContainer_slider > .MuiLinearProgress-colorPrimary {
+    background-color:lawngreen;
+
+}
+
+#line1{
+    background-color:white;
+}

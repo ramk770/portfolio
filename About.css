@@ -1,0 +1,9 @@
+.about{
+    background:url('./compontent/image/ram12.jpg');
+    height: 100vh;
+     /* background-position:center;  */
+    background-size: cover;
+    background-repeat:no-repeat;
+    
+
+}
